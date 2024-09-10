@@ -1,6 +1,6 @@
 🎬 NETFLIX CLONE
 
-![image](https://github.com/user-attachments/assets/67d40b16-9770-4553-a707-471945646eea)
+![image](https://github.com/user-attachments/assets/7c725a96-63fe-4e25-beb3-69eb81d21b3a)
 
 A modern, responsive Netflix landing page clone built with just HTML and CSS. No JavaScript, no frameworks – just pure front-end magic! ✨
 
