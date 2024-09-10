@@ -1,4 +1,5 @@
-🎬 Netflix Clone
+🎬 NETFLIX CLONE
+
 A modern, responsive Netflix landing page clone built with just HTML and CSS. No JavaScript, no frameworks – just pure front-end magic! ✨
 
 🌟 Features --
