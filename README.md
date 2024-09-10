@@ -17,23 +17,23 @@ A modern, responsive Netflix landing page clone built with just HTML and CSS. No
 
 ## Installation ⚙️ 
 
-Clone the repo :
+1. Clone the repo :
 ```
 https://github.com/priyanka350/NetflixClone
 ```
-Open ```index.html``` in your browser.
+2. Open ```index.html``` in your browser.
 
 ## Why This Project? 🤔
 This Netflix clone was created as a fun, hands-on way to sharpen front-end skills, focusing on clean, responsive design without relying on any JavaScript or CSS frameworks. Perfect for learning and practicing HTML/CSS!
 
-## Show Your Support ❤️
-If you love this project, please consider giving it a star on GitHub ⭐. Your support helps motivate and inspire further development. If you have any issues or questions, open an issue in the repository or contact me directly. I’m here to help and appreciate any feedback or suggestions you may have. 🙌
-
 ## Contributing ✍️
 Got ideas for improvements? Fork the repo and submit a pull request. Your contributions are always welcome! 🤝
 
+## Show Your Support ❤️
+If you love this project, please consider giving it a star on GitHub ⭐. Feel free to share it with others who might find it useful.
+
 ## Contact ✉
-priyanka.tmsl2022@gmail.com
+Email : priyanka.tmsl2022@gmail.com
 
 ---
 
